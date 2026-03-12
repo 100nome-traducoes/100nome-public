@@ -1,0 +1,10 @@
+NOTA LEGAL DO 100NOME
+
+Repositório oficial de licenças atualizadas do 100Nome:
+https://github.com/100nome-traducoes/100nome-public/licencas
+
+As licenças aqui incluídas no repositório oficial de licenças atualizadas do 100Nome substituem as licenças incluídas dentro dos pacotes de tradução.
+
+Ao transferir um pacote de tradução, certifique-se de que tem em sua posse a licença correspondente atualizada.
+
+Para todos os efeitos, as licenças dentro deste repositório oficial são as ativas.

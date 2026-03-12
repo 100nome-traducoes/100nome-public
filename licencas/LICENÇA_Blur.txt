@@ -1,0 +1,44 @@
+Licença Complementar à Creative Commons 4.0 (CC BY-NC-ND 4.0) para a Tradução do Jogo Blur - Versão 2.0
+
+Aviso Legal:
+Esta é uma tradução não oficial do jogo "Blur", criado e detido pelos seus respetivos proprietários. O 100Nome, de seu site oficial 100nome.blogs.sapo.pt, não possui quaisquer direitos de autor sobre Blur, e esta tradução foi realizada sem fins lucrativos, com o único propósito de permitir que mais pessoas possam desfrutar de Blur no seu idioma nativo.
+
+A página oficial desta tradução é a presente no site oficial do 100Nome, onde se incluem as informações da tradução e opção para a sua transferência, referida abaixo como "página oficial da tradução".
+
+Termos e Condições da Licença:
+
+	1. Uso Não Comercial:
+	Esta tradução está licenciada sob a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). Isso significa que pode usar e distribuir a tradução gratuitamente, desde que não seja para fins comerciais.
+
+	2. Distribuição da Tradução:
+	Ao redistribuir esta tradução, deve incluir este ficheiro de licença, que contém o texto da licença complementar ao texto da licença Creative Commons CC BY-NC-ND 4.0. Esta licença específica da tradução complementa a licença Creative Commons e inclui termos adicionais. Deve também manter a informação sobre a ligação para a versão atualizada e oficial desta licença, bem como a ligação para a versão atualizada da licença Creative Commons.
+
+	3. Ligação para a Página Oficial:
+	É obrigatório incluir uma ligação visível para a página oficial da tradução, dentro e fora do pacote, permitindo que outros interessados possam encontrar e obter a tradução original de forma legítima e atualizada.
+
+	4. Integridade da Tradução:
+	Não pode alterar, transformar ou criar obras derivadas desta tradução. A tradução deve ser distribuída exatamente como fornecida, mantendo a sua integridade e precisão. Todos os ficheiros do pacote devem ser mantidos.
+
+	5. Respeito aos Créditos:
+	Todos os créditos e atribuições da tradução incluídos na página oficial da tradução devem ser respeitados. Isso inclui créditos a tradutores, revisores e quaisquer outros colaboradores envolvidos no processo de tradução.
+
+	6. Isenção de Responsabilidade:
+	Nem a entidade 100Nome, nem os criadores de Blur assumem qualquer responsabilidade legal ou obrigação relacionada ao uso desta tradução. Os utilizadores são responsáveis por qualquer uso indevido ou não autorizado da mesma.
+
+	7. Cópia da Licença Online e Alterações Futuras:
+	Este ficheiro de licença é apenas uma cópia da licença atualizada, que se encontra online e pode ser alterada a qualquer momento sem aviso prévio. A versão online da licença é a versão oficial e deve ser consultada para obter a informação mais recente. Esta versão offline serve apenas como referência e deve ser considerada válida apenas quando a versão online não estiver disponível. O 100Nome reserva-se o direito de alterar os termos desta licença a qualquer momento. As novas condições aplicam-se a todas as distribuições, anteriores e posteriores à data da alteração. O 100Nome reserva-se o direito de alterar os termos desta licença a qualquer momento. As novas condições aplicam-se a todas as distribuições, anteriores e posteriores à data da alteração.
+	
+A versão online da licença pode ser encontrada na pasta de licenças atualizadas em:
+https://drive.google.com/drive/folders/12kypBij0cTK4ih-ug3b4z0H3CcrzTJJY?usp=sharing.
+O ficheiro correspondente à licença em questão tem o nome LICENÇA_{nome original do jogo}.txt.
+Para mais informações, visite a página oficial da tradução,
+a pasta de licenças atualizadas e o servidor oficial de Discord do 100Nome.
+
+Ao utilizar esta tradução, concorda com os termos desta licença. Caso não concorde com estes termos, não está autorizado a usar ou distribuir esta tradução.
+
+Fim do Texto da Licença.
+
+Um texto atualizado da licença Creative Commons, que complementa esta licença, é disponibilizado pelo site oficial da Creative Commons, em:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.pt.
+
+O 100Nome agradece por respeitar os termos desta licença e por ajudar a disponibilizar a tradução de Blur a mais pessoas. Se tiver dúvidas ou precisar de mais informações, entre em contacto com o 100Nome através das formas disponibilizadas no seu site oficial.
