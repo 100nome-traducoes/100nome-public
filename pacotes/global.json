@@ -1,0 +1,13 @@
+{
+  "_comment": "Ficheiro de configuração global dos pacotes 100Nome. URL raw deste Gist vai em GLOBAL_URL no build-pacote.js.",
+  "siteUrl": "https://100nome.net",
+  "discord": "https://discord.gg/Xv7ax2VkEp",
+  "kofi": "https://ko-fi.com/100nometraducoes",
+  "youtube": "https://www.youtube.com/@100NomePT",
+  "traduzir": "https://100nome.net/#traduzir",
+  "licencas": "https://drive.google.com/drive/folders/12kypBij0cTK4ih-ug3b4z0H3CcrzTJJY",
+  "instalador.win.passos": "[\"Extrai todo o conteúdo do ZIP para uma pasta.\",\"Abre a pasta extraída.\",\"Executa <code>instalar.bat</code> e segue os passos no ecrã.\"]",
+  "instalador.win.aviso": "Se aparecer um aviso de segurança do Windows, clica em <strong>Mais informações</strong> → <strong>Executar mesmo assim</strong>. O script é de código aberto.",
+  "instalador.linux.passos": "[\"Extrai todo o conteúdo do ZIP para uma pasta.\",\"Abre um terminal na pasta extraída.\",\"Executa <code>bash instalar.sh</code> e segue os passos no ecrã.\"]",
+  "instalador.linux.aviso": ""
+}
